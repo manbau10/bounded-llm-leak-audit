@@ -1,0 +1,14 @@
+data/
+derived/
+private/
+llm_runs/
+manuscript/
+figures/
+*.wav
+*.xlsx
+*.docx
+*.pptx
+*.csv
+*.json
+__pycache__/
+.env
